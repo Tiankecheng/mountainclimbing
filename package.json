@@ -1,0 +1,21 @@
+{
+  "name": "ilovethemountains",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://gitlab.appshahe.com/metaApp/metagame/metabluets/games/ilovethemountains.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "module_bag": "^5.0.2",
+    "module_facad": "^5.0.5",
+    "module_gm": "^5.0.3",
+    "module_guide": "^5.0.6"
+  }
+}

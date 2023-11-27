@@ -1,0 +1,27 @@
+**************************************************
+--开始检查项目资源
+--项目路径:D:\MetaApp\MetaWorldSaved\Saved\MetaWorld\Projects\ilovethemountains
+**************************************************
+**************************************************
+--项目资源检查结束，耗时:13.471
+**************************************************
+-------------------------------------------
+--需要修改的脚本[.ts文件]：3
+[D:/MetaApp/MetaWorldSaved/Saved/MetaWorld/Projects/ilovethemountains/JavaScripts/Prefabs/PF_Transfer/Script/CableCar.ts]使用到ID[ 7802 ]确定这是资源？可替换=>[ 198471 ]
+[D:/MetaApp/MetaWorldSaved/Saved/MetaWorld/Projects/ilovethemountains/JavaScripts/const/GameAssets.ts]使用到ID[ 21638 ]确定这是资源？可替换=>[ 197483 ]
+[D:/MetaApp/MetaWorldSaved/Saved/MetaWorld/Projects/ilovethemountains/JavaScripts/const/GameAssets.ts]使用到ID[ 13587 ]确定这是资源？可替换=>[ 154709 ]
+=>请修改上述ts文件，如果提示ID不是资源请忽略
+=>如果是配置文件转换的ts文件，请修改对应的配置表
+-------------------------------------------
+-------------------------------------------
+--需要修改的对象：5
+[D:/MetaApp/MetaWorldSaved/Saved/MetaWorld/Projects/ilovethemountains/Levels/NewLevel.level]里的[ 木架子 id: 0D70D741 ]的资源[ 5672 ]请查找替换
+[D:/MetaApp/MetaWorldSaved/Saved/MetaWorld/Projects/ilovethemountains/Levels/NewLevel.level]里的[ 木架子 id: 0D70D741 ]的资源[ 5184 ]请查找修改
+[D:/MetaApp/MetaWorldSaved/Saved/MetaWorld/Projects/ilovethemountains/Levels/NewLevel.level]里的[ 木架子 id: 0D70D741 ]的资源[ 5269 ]请查找修改
+[D:/MetaApp/MetaWorldSaved/Saved/MetaWorld/Projects/ilovethemountains/Levels/NewLevel.level]里的[ 正方体 id: 665EAA17 ]的资源[ 20620 ]请查找修改
+[D:/MetaApp/MetaWorldSaved/Saved/MetaWorld/Projects/ilovethemountains/Levels/NewLevel.level]里的[ 木架子 id: 0D70D741 ]的资源[ 4794 ]请查找修改
+=>请修改上述提示文件內的对象
+-------------------------------------------
+=>资源替换98个
+=>还有8个目标需要处理
+=========================================================
