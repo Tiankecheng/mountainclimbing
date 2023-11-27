@@ -1,0 +1,7 @@
+dist/game.js
+JavaScripts/tsconfig.json
+dist/game.js.map
+dist/game.js
+build.ts
+TsBuilder.log
+DBCache

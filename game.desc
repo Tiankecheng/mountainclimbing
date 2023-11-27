@@ -1,0 +1,34 @@
+﻿{
+	"name": "我爱爬山IAA自测",
+	"packageName": "33ecc898.4c494499.a379bcb8.ee6c00b9",
+	"version": "",
+	"intro": "1",
+	"notes": "1",
+	"editorVersion": "v0.18.0.0",
+	"parentGameIdentity": "",
+	"parentGameId": "",
+	"extra": "{\"attribute\":2,\"IsHorizontal\":true}",
+	"devEnv": 4,
+	"needToMgs": 1,
+	"attribute": 2,
+	"autoSubmitAudit": false,
+	"classification": [],
+	"ignore": [
+		"game.desc",
+		"Asset_Data_List"
+	],
+	"files": [
+		{
+			"type": "Game_Thumbnail",
+			"path": "Pictures/Game_Thumbnail.jpg"
+		},
+		{
+			"type": "GameSetting",
+			"path": "Config/GameSetting.ini"
+		},
+		{
+			"type": "Asset_Data_List",
+			"path": "Asset_Data_List"
+		}
+	]
+}
